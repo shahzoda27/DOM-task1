@@ -1,0 +1,13 @@
+.delete_btn{
+    margin-left: 60px;
+}
+.check{
+    color: crimson;
+    text-decoration: line-through;
+}
+li{
+    font-size: 18px;
+}
+li:hover{
+    cursor: pointer;
+}
